@@ -47,4 +47,3 @@ else
         snd options[option] ()
     else
         printfn "Wrong option."
-
